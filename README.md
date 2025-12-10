@@ -1,16 +1,30 @@
-## Hi there 👋
+Justin Leonardo Romero Quintero
 
-<!--
-**QJustin-dev/QJustin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador en formación | Backend Junior
 
-Here are some ideas to get you started:
+Enfocado en programación, desarrollo web y construcción de proyectos reales mientras estudio Programación de Software (SENA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack Tecnológico
+
+Lenguajes: Python, JavaScript
+Web: HTML, CSS
+Herramientas: Git, GitHub
+Intereses: Backend, automatización, arquitectura básica
+
+Actualmente
+
+Creando proyectos pequeños en Python
+
+Practicando JavaScript y DOM
+
+Elaborando portafolio profesional
+
+Aprendiendo buenas prácticas y estructuras de proyecto
+
+Objetivo
+
+Consolidar habilidades para aplicar a mi primer rol como Desarrollador Junior.
+
+Objetivo
+
+Consolidar habilidades para aplicar a mi primer rol como Desarrollador Junior.
